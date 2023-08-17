@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 5px solid hotpink;
+}
+
+legend {
+  font-weight: bold;
+  text-decoration: underline;
+  color: hotpink;
+}
+
+form {
+  color: rgb(247, 40, 40);
+  border: 5px solid hotpink;
+  width: 50%;
+  margin: auto;
+}
+
+#f-name {
+  text-align: center;
+}
