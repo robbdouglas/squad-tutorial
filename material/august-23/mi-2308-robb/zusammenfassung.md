@@ -35,6 +35,7 @@ focus
 
 ## Media Queries
 
+responsive design
 mobile first
 
 ## Pseudo-Selektoren
@@ -49,7 +50,6 @@ table
 tr
 th
 td
-
 zeilenweise Anordnung
 
 ## Formulare
@@ -62,6 +62,10 @@ zeilenweise Anordnung
 
 ## Background Image
 
+background-image
+background-position
+background-size
+background-repeat
 
 
 ## Box Model
