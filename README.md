@@ -19,4 +19,4 @@
 
 ### September 23
 
-[Mittwoch, 06.09.23, Robb: JavaScript Basics, Data Types, console.log, Konstanten und Variablen, Rechnen, Button](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-0609-robb)
+- [Mittwoch, 06.09.23, Robb: JavaScript Basics, Data Types, console.log, Konstanten und Variablen, Rechnen, Button](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-0609-robb)
