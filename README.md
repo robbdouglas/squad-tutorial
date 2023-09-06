@@ -15,3 +15,8 @@
 - [Mittwoch, 23.08.23, Robb: Ui Basics: Quiz und Zusammenfassung](https://github.com/robbdouglas/squad-tutorial/tree/main/material/august-23/mi-2308-robb)
 - [Donnerstag, 24.08.23, Axel :Aufgabe Tailwind](https://github.com/robbdouglas/squad-tutorial/tree/main/solutions/august-23/do-2408-axel)
 - [Tailwind einrichten](https://github.com/robbdouglas/squad-tutorial/tree/main/material/august-23/tailwind)
+
+
+### September 23
+
+[Mittwoch, 06.09.23, Robb: JavaScript Basics, Data Types, console.log, Konstanten und Variablen, Rechnen, Button](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-0609-robb)
