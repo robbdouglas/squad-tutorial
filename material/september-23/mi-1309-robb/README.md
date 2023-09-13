@@ -19,7 +19,7 @@ eine einfache Kaufentscheidung trifft. Verwende Bedingungsanweisungen, um die fo
 
 ---
 
-## Aufgabe 2
+## Aufgabe 2:
 
 Nutze die beiden Variablen aus Aufgabe 1 (money und priceConcertTicket). Du möchtest überprüfen, ob du wirklich zum Konzert gehst. <br>
 Definiere dazu zwei neue Variablen:
