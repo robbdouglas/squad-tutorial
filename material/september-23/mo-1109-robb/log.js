@@ -1,13 +1,13 @@
-// Funktion zum Umleiten von console.log-Ausgaben in die HTML-Div
+// function to redirect console.log to div
 function redirectConsoleToDiv() {
   const consoleField = document.querySelector(".console-field");
 
-  // Speichern der ursprünglichen console.log-Funktion
+  // save the original console.log function
   const originalConsoleLog = console.log;
 
-  // Überschreiben der console.log-Funktion, um Ausgaben in die Div umzuleiten
+  // overwrite console.log function
   console.log = function () {
-    // Konvertiere die Argumente in einen Zeichenfolgen-Text
+    // convert all arguments to an array
     const logText = Array.from(arguments)
       .map((arg) =>
         typeof arg === "string"
@@ -16,13 +16,13 @@ function redirectConsoleToDiv() {
       )
       .join(" ");
 
-    // Füge den formatierten Text in die Div ein
+    // pass the log text to the div
     consoleField.innerHTML += `<p>${logText}</p>`;
 
-    // Aufruf der ursprünglichen console.log-Funktion
+    // call the original console.log function
     originalConsoleLog.apply(console, arguments);
   };
 }
 
-// Aufruf der Funktion zum Umleiten der Konsole
+// redirect console.log to div
 redirectConsoleToDiv();
