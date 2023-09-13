@@ -37,3 +37,17 @@ Wenn alle drei Bedingungen gleichzeitig erfüllt sind, gib aus: "Ich gehe zum Ko
 Wenn mindestens eine der Bedingungen nicht erfüllt ist, gib aus: "Ich gehe nicht zum Konzert!"
 
 Hinweis: Nutze boolean für die Definition von habeBock und habeZeit!
+
+## Aufgabe 3
+
+Du bist dabei, ein einfaches Einkaufsportal zu erstellen. Du möchtest deinen Nutzern auf Grundlage ihres Einkaufswertes Rabatte gewähren. Schreibe JavaScript-Code, der den Einkaufswert des Nutzers überprüft und den entsprechenden Rabatt berechnet.
+
+- Erstelle eine Variable namens einkaufswert und weise ihr einen zufälligen Wert zwischen 0 und 1000 zu.
+
+- Verwende eine "if-else if-else"-Struktur, um den Rabatt für den Einkaufswert zu bestimmen:
+
+- Wenn der einkaufswert weniger als 100 beträgt, beträgt der Rabatt 5%.
+- Wenn der einkaufswert zwischen 100 (inklusive) und 500 (ausschließlich) liegt, beträgt der Rabatt 10%.
+- Wenn der einkaufswert 500 oder mehr beträgt, beträgt der Rabatt 20%.
+- Wenn keine der obigen Bedingungen erfüllt ist, beträgt der Rabatt 0%.
+- Gib den einkaufswert, den berechneten Rabatt und den endgültigen Preis (nach Abzug des Rabatts) in der Konsole aus.
