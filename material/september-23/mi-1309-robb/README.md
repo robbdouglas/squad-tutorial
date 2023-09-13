@@ -38,6 +38,8 @@ Wenn mindestens eine der Bedingungen nicht erfüllt ist, gib aus: "Ich gehe nich
 
 Hinweis: Nutze boolean für die Definition von habeBock und habeZeit!
 
+---
+
 ## Aufgabe 3
 
 Du bist dabei, ein einfaches Einkaufsportal zu erstellen. Du möchtest deinen Nutzern auf Grundlage ihres Einkaufswertes Rabatte gewähren. Schreibe JavaScript-Code, der den Einkaufswert des Nutzers überprüft und den entsprechenden Rabatt berechnet.
