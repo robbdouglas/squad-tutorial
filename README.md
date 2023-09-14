@@ -15,10 +15,9 @@
 - [Wednesday, 23.08.23, Robb: Ui Basics: Quiz and Summary](https://github.com/robbdouglas/squad-tutorial/tree/main/material/august-23/mi-2308-robb)
 - [Get started with Tailwind: Installation](https://github.com/robbdouglas/squad-tutorial/tree/main/material/august-23/tailwind)
 
-- [Thursday, 14.09.23 , Axel: Aufgaben über if und else](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/do-14.09-axel)
-
 ### September 23
 
 - [Wednesday, 06.09.23, Robb: JavaScript Basics, Data Types, console.log, Constants and Variables, Simple Calculating, Button](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-0609-robb)
 - [Monday, 11.09.23, Robb: JavaScript Arithmetics und Maths](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mo-1109-robb)
 - [Wednesday, 13.09.23, Robb: JavaScript Tasks "if, else, else if"](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-1309-robb)
+- [Thursday, 14.09.23 , Axel: Aufgaben über if und else](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/do-14.09-axel)
