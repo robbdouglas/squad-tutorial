@@ -48,3 +48,10 @@ else {
     console.log("Endpreis: " + einkaufswert.toFixed(2));
     }
 
+
+
+
+
+
+
+    
