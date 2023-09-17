@@ -103,7 +103,7 @@ Du bist dabei, ein einfaches Einkaufsportal zu erstellen. Du möchtest deinen Nu
 - Wenn der einkaufswert zwischen 100 (inklusive) und 500 (ausschließlich) liegt, beträgt der Rabatt 10%.
 - Wenn der einkaufswert 500 oder mehr beträgt, beträgt der Rabatt 20%.
 - Wenn keine der obigen Bedingungen erfüllt ist, beträgt der Rabatt 0%.
-- Gib den einkaufswert, den berechneten Rabatt und den endgültigen Preis (nach Abzug des Rabatts) in der Konsole aus.
+- Gib den einkaufswert, den berechneten Rabatt und den endgültigen Preis (nach Abzug des Rabatts) in der Konsole aus. 
 
 ## AUFGABE - TERNARY OPERATOR
 
