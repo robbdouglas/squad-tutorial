@@ -21,4 +21,4 @@
 - [Monday, 11.09.23, Robb: JavaScript Arithmetics und Maths](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mo-1109-robb)
 - [Wednesday, 13.09.23, Robb: JavaScript Tasks "if, else, else if"](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-1309-robb)
 - [Thursday, 14.09.23 , Axel: Aufgaben über if und else](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/do-14.09-axel)
-- [Monday, 18.09.23, Robb: JavaScript Strings, Numbers, if-else, ternary"]()
+- [Monday, 18.09.23, Robb: JavaScript Strings, Numbers, if-else, ternary"](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mo-1809-robb)
