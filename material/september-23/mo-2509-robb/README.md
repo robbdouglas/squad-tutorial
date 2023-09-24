@@ -6,17 +6,17 @@
 
 Du hast ein Array von Zahlen: [1, 2, 3, 4, 5]. Schreibe eine JavaScript-Funktion, die folgende Aufgaben erledigt:
 
-[a] Füge der Array am Ende die Zahl 6 hinzu!
-[b] Entferne die Zahl 3 aus dem Array!
-[c] Entferne die letzte Zahl aus dem Array!
-[d] Überprüfe, ob die Zahl 5 im Array vorhanden ist und gebe eine entsprechende Meldung aus!
+[a] Füge der Array am Ende die Zahl 6 hinzu! <br>
+[b] Entferne die Zahl 3 aus dem Array! <br>
+[c] Entferne die letzte Zahl aus dem Array! <br>
+[d] Überprüfe, ob die Zahl 5 im Array vorhanden ist und gebe eine entsprechende Meldung aus! <br>
 
 ### Aufgabe 2: Array transformieren
 
 Du hast ein Array von Namen: ["Alice", "Bob", "Charlie", "David"]. Schreibe eine JavaScript-Funktion, die folgende Aufgaben erledigt:
 
-[a] Verändere das ursprüngliche Array, indem du den Namen "Eve" am Anfang hinzufügst.
-[b] Verwende die .join()-Methode, um die Namen im Array in einen einzigen String zu konvertieren und auf der Konsole auszugeben.
+[a] Verändere das ursprüngliche Array, indem du den Namen "Eve" am Anfang hinzufügst. <br>
+[b] Verwende die .join()-Methode, um die Namen im Array in einen einzigen String zu konvertieren und auf der Konsole auszugeben. <br>
 
 
 ## For Loops
