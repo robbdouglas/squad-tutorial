@@ -51,5 +51,5 @@ Nutze for loops, um folgendes Programm zu schreiben: Ein 6-seitiger Würfel soll
 
 ## Bonus: 
 
-Gegeben ist folgendes Array: [Robb, Melisa, Katharina, Marvin, Melle, Anna, Hamze, Oliver, Emanuela, Axel]. Kombiniere dein Wissen zu Arrays und for loops, um ein neues Array zu erstellen, dass nur die Namen enthält, die kürzer als 5 Buchstaben sind! Gib das neue Array in der Konsole aus.
+Gegeben ist folgendes Array: [Robb, Melisa, Katharina, Marvin, Melle, Anna, Hamze, Oliver, Emanuela, Axel]. Kombiniere dein Wissen zu Arrays und for loops, um ein neues Array zu erstellen, das nur die Namen enthält, die kürzer als 5 Buchstaben sind! Gib das neue Array in der Konsole aus.
 
