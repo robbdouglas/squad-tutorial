@@ -79,19 +79,19 @@ else {
 
 //Aufgabe 2
 
-
+let kurzeNamen = ["Alice", "Bob", "Charlie", "David"];
 
 console.log(kurzeNamen);
 
 //a
 
-namen.unshift("Eve");
-console.log(namen);
+kurzeNamen.unshift("Eve");
+console.log(kurzeNamen);
 
 //b
 
-let namenString = namen.join(", ");
-console.log(namenString);
+let kurzeNamenString = kurzeNamen.join(", ");
+console.log(kurzeNamenString);
 
 
 // FOR LOOPS------------------------------------------------
@@ -179,14 +179,16 @@ console.log(eins);
 
 // BONUS:
 
-let namen = ["Alice", "Bob", "Charlie", "David"];
-let kurzeNamen = [];
+let namen = ["Robb", "Melisa", "Katharina", "Marvin", "Melle", "Anna", "Hamze", "Oliver", "Emanuela", "Axel"];
+let kurzeNamen2 = [];
 
 for (let i = 0; i < namen.length; i++) {
     if (namen[i].length < 5) {
-        kurzeNamen.push(namen[i]);
+        kurzeNamen2.push(namen[i]);
     }
 }
+
+console.log(kurzeNamen2);
 
 
 
