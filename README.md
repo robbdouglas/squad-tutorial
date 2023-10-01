@@ -27,3 +27,8 @@
 - [Monday, 25.09.23, Robb: Übungsaufgaben for-loops & Arrays](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mo-2509-robb)
 - [Tuesday, 26.09.23, Axel: Aufgaben über ReadlineSync, process.argv](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/di-2609-axel)
 - [Wednesday, 27.09.23, Robb: Übungsaufgaben while loops](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-2709-robb)
+
+
+### October 23
+
+- [Monday, 02.10.23, Robb: Übungsaufgaben Funktionen](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0210-robb)
