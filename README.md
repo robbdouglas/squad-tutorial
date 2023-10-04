@@ -29,3 +29,11 @@
 - [Wednesday, 27.09.23, Robb: Übungsaufgaben while loops](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/mi-2709-robb)
 
 - [Thursday, 28.09.23, Axel: Übungsaufgaben functions basic](https://github.com/robbdouglas/squad-tutorial/tree/main/material/september-23/do-2809-axel/.md)
+
+### October 23
+
+- [Monday, 02.10.23, Robb: Übungsaufgaben Funktionen](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0210-robb)
+
+### October 23
+
+- [Monday, 02.10.23, Robb: Übungsaufgaben Funktionen](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0210-robb)
