@@ -16,13 +16,13 @@ gewünschte Datentypen:
 
 ## Aufgabe 3
 
-Erstelle eine Funktion zur Berechnung des Flächeninhalts eines Rechtecks. In diesem Beispiel unterstellen wir, dass die Einheit Meter verwendet wird.  <br>
+Erstelle eine Funktion zur Berechnung des Flächeninhalts eines Rechtecks. Einheiten werden vernachlässigt.  <br>
 Parameter: Länge, Breite <br>
 gewünschte Datentypen: 
 
 ## Aufgabe 4
 
-Erstelle eine Funktion zur Berechnung des Flächeninhalts eines Kreises. <br>
+Erstelle eine Funktion zur Berechnung des Flächeninhalts eines Kreises. Einheiten werden vernachlässigt. <br>
 Parameter: Radius <br>
 gewünschter Datentyp:
 
