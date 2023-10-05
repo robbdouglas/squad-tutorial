@@ -31,4 +31,4 @@
 
 ### October 23
 
-- [Monday, 02.10.23, Ro# WebDEV-Squad Tutorial
+- [Monday, 02.10.23, Robb: Übungsaufgaben Funktionen](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0210-robb)
