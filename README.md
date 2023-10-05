@@ -6,7 +6,7 @@
 
 ### Material
 
-#### August 23
+### August 23
 
 - [Wednesday, 16.08.23, Robb: Jest-Testing, Header and Navbar](https://github.com/robbdouglas/squad-tutorial/tree/main/material/august-23/mi-1608-robb)
 - [Thursday, 17.08.23, Axel: Forms and Tables](https://github.com/robbdouglas/squad-tutorial/tree/main/material/august-23/do-1708-axel)
