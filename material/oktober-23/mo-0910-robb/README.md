@@ -29,7 +29,7 @@ Gegeben ist ein Array aus Zahlen:
 const arr2 = [2, 91, 1242, -3, 0, 2, 52, 14.6, 18, 1001]
 ```
 
-[a] Sortiere das Array numerisch aufsteigend!
+[a] Sortiere das Array numerisch aufsteigend! <br>
 [b] Sortiere das Array numerisch absteigend!
 
 ### Aufgabe 3
@@ -84,7 +84,7 @@ Gegeben ist ein Array mit Zahlen:
 const myNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-[a] Gib mit Hilfe der map Methode ein neues Array aus, in dem alle Zahlen verdoppelt sind!
+[a] Gib mit Hilfe der map Methode ein neues Array aus, in dem alle Zahlen verdoppelt sind! <br>
 [b] Gib mit Hilfe der map Methode ein neues Array aus, in dem alle geraden Zahlen quadriert sind! Ungerade Zahlen sollen unverändert bleiben!
 
 __________________________________
@@ -101,8 +101,8 @@ Gegeben ist ein leeres Array:
 let myArray = [];
 ```
 
-[a] Fülle das Array mit 100 zufälligen ganzen Zahlen zwischen 1 und 100! Sortiere das Array danach aufsteigend!
-[b] Nutze die filter Methode, um nur die Zahlen aus dem Array anzuzeigen, die größer als 50 sind!
+[a] Fülle das Array mit 100 zufälligen ganzen Zahlen zwischen 1 und 100! Sortiere das Array danach aufsteigend! <br>
+[b] Nutze die filter Methode, um nur die Zahlen aus dem Array anzuzeigen, die größer als 50 sind! <br>
 [c] Filtere nun nach allen Zahlen, welche das Ergebnis einer Zweierpotenz sind (1, 4, 9, ..., 100)
 
 __________________________________
@@ -119,7 +119,7 @@ Gegeben ist ein Array mit Zahlen:
 const myNumbers2 = [1, 2, 3, 4, 5];
 ```
 
-[a] Gib mit Hilfe der reduce Methode die Summe aller Zahlen aus!
+[a] Gib mit Hilfe der reduce Methode die Summe aller Zahlen aus! <br>
 [b] Gib mit Hilfe der reduce Methode die Summe der Quadrate aller Zahlen aus!
 
 __________________________________
@@ -140,7 +140,7 @@ const transactions = [
 ];
 ```
 
-[a] Ermittle das aktuelle Guthaben (Wert des Kontos nach der letzten Transaktion)! Welche Methode eignet sich dafür am besten? Nutze diese!
-[b] Lass nur die Transaktionen anzeigen, deren Betrag größer als 40 ist (unabhängig ob Ein- oder Auszahlung)! Welche Methode eignet sich dafür am besten? Nutze diese!
-[c] Verdopple die Werte aller Einzahlungen! Welche Methode eignet sich dafür am besten? Nutze diese!
+[a] Ermittle das aktuelle Guthaben (Wert des Kontos nach der letzten Transaktion)! Welche Methode eignet sich dafür am besten? Nutze diese! <br>
+[b] Lass nur die Transaktionen anzeigen, deren Betrag größer als 40 ist (unabhängig ob Ein- oder Auszahlung)! Welche Methode eignet sich dafür am besten? Nutze diese! <br>
+[c] Verdopple die Werte aller Einzahlungen! Welche Methode eignet sich dafür am besten? Nutze diese! <br>
 [d] Sortiere die Transaktionen nach dem Betrag aufsteigend! Welche Methode eignet sich dafür am besten? Nutze diese!
