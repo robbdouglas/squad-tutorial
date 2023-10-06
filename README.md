@@ -32,3 +32,4 @@
 ### October 23
 
 - [Monday, 02.10.23, Robb: Übungsaufgaben Funktionen](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0210-robb)
+- [Monday, 09.10.23, Robb: Übungsaufgaben sort, map, filter, reduce & objects](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0910-robb)
