@@ -103,7 +103,7 @@ let myArray = [];
 
 [a] Fülle das Array mit 100 zufälligen ganzen Zahlen zwischen 1 und 100! Sortiere das Array danach aufsteigend! <br>
 [b] Nutze die filter Methode, um nur die Zahlen aus dem Array anzuzeigen, die größer als 50 sind! <br>
-[c] Filtere nun nach allen Zahlen, welche das Ergebnis einer Zweierpotenz sind (1, 4, 9, ..., 100)
+[c] Filtere nun stattdessen das Array mit den 100 Zahlen nach allen Zahlen, welche das Ergebnis einer Zweierpotenz sind (1, 4, 9, ..., 100)!
 
 __________________________________
 
