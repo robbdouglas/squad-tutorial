@@ -32,4 +32,6 @@
 ### October 23
 
 - [Monday, 02.10.23, Robb: Übungsaufgaben Funktionen](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0210-robb)
+- [Thursday, 05.10.23, Axel: Übungsaufgaben Object und Function](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/do-05.10-axel)
 - [Monday, 09.10.23, Robb: Übungsaufgaben sort, map, filter, reduce & objects](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0910-robb)
+- [Tuesday, 10.10.23, Axel: Übungsaufgaben: Object.key, Object.value, Object.entries und for-in-loop](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/di-10.10-axel)
