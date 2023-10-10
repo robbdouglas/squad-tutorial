@@ -53,7 +53,7 @@ const student = {
 };
 ```
 
-[a] Verwende Object.keys(), um eine Liste der Eigenschaften des Studentenobjekts zu erstellen.
-[b] Nutze Object.values(), um eine Liste der Werte im Studentenobjekt zu erhalten.
+[a] Verwende Object.keys(), um eine Liste der Eigenschaften des Studentenobjekts zu erstellen. <br>
+[b] Nutze Object.values(), um eine Liste der Werte im Studentenobjekt zu erhalten. <br>
 [c] Kombiniere Object.keys() und Object.values() mit Object.entries(), um eine Liste von Arrays zu erhalten, die jeweils eine Eigenschaft und ihren Wert enthalten.
 
