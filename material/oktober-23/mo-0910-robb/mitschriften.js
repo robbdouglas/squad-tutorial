@@ -348,3 +348,46 @@ console.log(sum2);
 // [3 + 3] : 6
 // [6 + 4] : 10
 // [10 + 5] : 15
+
+console.log("------------------------------------------------------------------");
+
+// ## Filter
+
+// ### Theorie
+
+// ### Aufgabe 1
+
+// Gegeben ist ein leeres Array:
+
+// ```javascript
+// let myArray = [];
+// ```
+
+// [a] Fülle das Array mit 100 zufälligen ganzen Zahlen zwischen 1 und 100! Sortiere das Array danach aufsteigend! <br>
+// [b] Nutze die filter Methode, um nur die Zahlen aus dem Array anzuzeigen, die größer als 50 sind! <br>
+// [c] Filtere nun stattdessen das Array mit den 100 Zahlen nach allen Zahlen, welche das Ergebnis einer Zweierpotenz sind (1, 4, 9, 16, 25, 36, 49, 64, 81, 100)!
+
+let myArray = [];
+
+// a
+
+for (let i = 0; i < 100; i++) {
+    let random = Math.ceil(Math.random() * 100);
+    myArray.push(random)
+}
+
+myArray.sort((a, b) => a - b);
+
+console.log(myArray);
+
+// b 
+
+const biggerThan50 = myArray.filter((a) => a > 50);
+
+console.log(biggerThan50);
+
+// c 
+
+const squareNumbers2 = myArray.filter((z) => Number.isInteger(Math.sqrt(z)))
+
+console.log(squareNumbers2);

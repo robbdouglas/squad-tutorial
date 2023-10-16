@@ -36,3 +36,4 @@
 - [Monday, 09.10.23, Robb: Übungsaufgaben sort, map, filter, reduce & objects](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-0910-robb)
 - [Tuesday, 10.10.23, Axel: Übungsaufgaben: Object.key, Object.value, Object.entries und for-in-loop](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/di-10.10-axel)
 - [Wednesday, 11.10.23, Robb: Übungsaufgaben Nested Arrays, Nested Loops und Object Methods](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mi-1110-robb)
+- [Monday, 16.10.23, Robb: Wiederholung II: function expressions, pure functions, rest and spread parameter](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-1610-robb)
