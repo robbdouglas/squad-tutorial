@@ -27,11 +27,45 @@ console.log("_______________________________________________");
 
 // [b] ... die length der inneren Arrays ausgibt. Nutze hierfür einen for loop! <br>
 
-for (let i = 0; i < nestedArray.length; i++) { 
-    console.log(nestedArray[i].length);
+for (let i = 0; i < nestedArray.length; i++) {
+  console.log(nestedArray[i].length);
 }
 
+console.log("_____________");
+//___________________________________________________________
+
+// Syntax basic for loop:
+
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+}
+
+// for...of -> für alle iterierbaren Datenstrukturen (Arrays, Strings, Maps, Sets, Objekte etc.)
+// for...in -> für Objekte
+// for...each -> für Arrays
+
+//___________________________________________________________
+
 // [c] ... die letzte Zahl des letzten Arrays ausgibt. Schreibe den Code hierfür dynamisch und nicht statisch! <br>
+
+// const nestedArray = [
+//   [1, 2, 3],
+//   [4, 5, 6],
+//   [7, 8, 9],
+//   [10, 11, 12],
+//   [13, 14, 15],
+// ];
+
+console.log(
+  nestedArray[nestedArray.length - 1][
+    nestedArray[nestedArray.length - 1].length - 1
+  ]
+);
+
+console.log("_______");
+
+console.log(nestedArray[4][2]);
+
 // [d] ... alle Zahlen des gesamten Arrays ausgibt. Nutze hierfür einen nested loop! <br>
 // [e] ... die Summe aller Zahlen des Arrays berechnet und ausgibt. <br>
 
@@ -63,3 +97,5 @@ for (let i = 0; i < nestedArray.length; i++) {
 // [a] Verwende Object.keys(), um eine Liste der Eigenschaften des Studentenobjekts zu erstellen. <br>
 // [b] Nutze Object.values(), um eine Liste der Werte im Studentenobjekt zu erhalten. <br>
 // [c] Kombiniere Object.keys() und Object.values() mit Object.entries(), um eine Liste von Arrays zu erhalten, die jeweils eine Eigenschaft und ihren Wert enthalten.
+
+//___________________________________________________________
