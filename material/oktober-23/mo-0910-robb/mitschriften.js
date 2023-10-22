@@ -343,11 +343,12 @@ const sum2 = myNumbers7.reduce((acc, currentValue) => acc + currentValue)
 
 console.log(sum2);
 
-// [0 + 1] : 1
-// [1 + 2] : 3
-// [3 + 3] : 6
-// [6 + 4] : 10
-// [10 + 5] : 15
+// [acc + currentValue]
+// 1. iteration: [0 + 1] = 1
+// 2. iteration: [1 + 2] = 3
+// 3. iteration: [3 + 3] = 6
+// 4. iteration: [6 + 4] = 10
+// 5. iteration: [10 + 5] = 15
 
 console.log("------------------------------------------------------------------");
 
