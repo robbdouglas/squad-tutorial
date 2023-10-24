@@ -124,7 +124,7 @@ const numbers = [1, 2, 3, 4, 5, 6];
 const evenNumbers = numbers.filter((num) => num % 2 === 0);
 console.log(evenNumbers); // Ausgabe: [2, 4, 6]
 
-# reduce(): Reduziert das Array auf einen einzelnen Wert, indem eine akkumulierte Funktion auf jedes Element angewendet wird.
+# reduce(): Reduziert das Array auf EINEN einzelnen Wert, indem eine akkumulierte Funktion auf jedes Element angewendet wird.
 
 javascript
 
@@ -143,6 +143,8 @@ constructor(name, age) {
 this.name = name;
 this.age = age;
 }
+
+const person1 = new Person('John', 30);
 
 greet() {
 console.log(`Hallo, mein Name ist ${this.name} und ich bin ${this.age} Jahre alt.`);
