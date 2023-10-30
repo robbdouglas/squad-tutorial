@@ -41,4 +41,4 @@
 
 ### November 23
 
-[Thursday, 02.11.23, Robb: DOM Manipulation, Events, Buttons und Event Listener](https://github.com/robbdouglas/squad-tutorial/tree/main/material/november-23/0211-robb)
+- [Thursday, 02.11.23, Robb: DOM Manipulation, Events, Buttons und Event Listener](https://github.com/robbdouglas/squad-tutorial/tree/main/material/november-23/0211-robb)
