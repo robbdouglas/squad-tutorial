@@ -37,7 +37,11 @@
 - [Tuesday, 10.10.23, Axel: Übungsaufgaben: Object.key, Object.value, Object.entries und for-in-loop](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/di-10.10-axel)
 - [Wednesday, 11.10.23, Robb: Übungsaufgaben Nested Arrays, Nested Loops und Object Methods](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mi-1110-robb)
 - [Monday, 16.10.23, Robb: Wiederholung II: function expressions, pure functions, rest and spread parameter](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-1610-robb)
+- [Tuesday, 17.10.23, Axel: Aufgaben: process.argv und readline-sync](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/di-17.10-axel)
+- [Thursday, 19.10.23, Axel: Übungsaufgabe mit classes und function](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/do-19.10-axel)
 - [Monday, 23.10.23, Robb: Some & Every](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-2310-robb)
+- [Tuesday, 24.10.23, Axel: Wiederholung: Object-Methods, Array-Methods, Classes](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/di-24.10-axel)
+- [Monday, 30.10.23, Axel: Übungsaufgabe mit DOM-Manipulation](https://github.com/robbdouglas/squad-tutorial/tree/main/material/oktober-23/mo-30.10-axel)
 
 ### November 23
 
