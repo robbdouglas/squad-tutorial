@@ -10,7 +10,6 @@ Erstelle eine kleine Webanwendung mit den folgenden Funktionen und Eigenschaften
 - Außerdem muss ein "Reset" Button vorhanden sein, der die Eingabefelder leert und das Ergebnisfeld auf 0 setzt <br>
 
 [b] Import/Export
-
 - Stelle innerhalb der HTML Datei sicher, dass die JavaScript Datei "script.js" importiert wird und dass Import/Export ermöglicht wird <br>
 - Splitte den Code sinnvoll auf! Erstelle hierfür weitere .js Dateien und arbeite mit Import/Export <br>
 - Stelle sicher, dass nach dem Code Splitting die Funktionalität der Seite weiterhin gegeben ist <br>
