@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- IMPORT CSS -->
+    <link rel="stylesheet" href="./style.css" />
+    <title>Zufallszahlen Webanwendung</title>
+  </head>
+  <body>
+    <form id="numberForm">
+      <label for="numberInput">Anzahl der Zufallszahlen:</label>
+      <input
+        type="number"
+        id="numberInput"
+        name="numberInput"
+        min="1"
+        required
+      />
+      <button type="submit">Generiere Zufallszahlen</button>
+      <button type="button" onclick="resetForm()">Reset</button>
+    </form>
+
+    <div id="output">
+      <h2>Zufallszahlen (geordnete Urliste):</h2>
+      <div id="randomNumbers" class="number-box"></div>
+      <h2>Statistiken:</h2>
+      <p id="min">Minimum:</p>
+      <p id="max">Maximum:</p>
+      <p id="mean">Mittelwert:</p>
+      <p id="median">Median:</p>
+    </div>
+    <!-- IMPORT SCRIPT -->
+    <script src="./script.js"></script>
+  </body>
+</html>

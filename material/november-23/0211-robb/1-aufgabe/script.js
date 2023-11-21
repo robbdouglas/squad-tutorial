@@ -26,3 +26,4 @@
 
 // Ändere den Text so, dass er sagt: "Wow, du hast mich gerade geklickt!".
 // Ändere die Hintergrundfarbe des Absatzes.
+
