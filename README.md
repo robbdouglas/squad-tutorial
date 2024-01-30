@@ -47,3 +47,7 @@
 
 - [Thursday, 02.11.23, Robb: DOM Manipulation, Events, Buttons und Event Listener](https://github.com/robbdouglas/squad-tutorial/tree/main/material/november-23/0211-robb)
 - [Monday, 20.11.23, Robb: DOM Manipulation, Import & Export -> Aufgabe Taschenrechner](https://github.com/robbdouglas/squad-tutorial/tree/main/material/november-23/mo-2011-robb)
+
+### January 24
+
+- []()
