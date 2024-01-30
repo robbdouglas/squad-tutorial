@@ -50,4 +50,4 @@
 
 ### January 24
 
-- []()
+- [Wednesday, 31.01.24, Robb: Backend Basics](https://github.com/robbdouglas/squad-tutorial/tree/main/material/january-24/mi-3101-robb)
