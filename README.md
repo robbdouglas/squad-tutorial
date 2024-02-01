@@ -51,3 +51,4 @@
 ### January 24
 
 - [Wednesday, 31.01.24, Robb: Backend Basics](https://github.com/robbdouglas/squad-tutorial/tree/main/material/january-24/mi-3101-robb)
+- [Thursday, 01.02.24, Robb: Express.js GET request exercise](https://github.com/robbdouglas/squad-tutorial/tree/main/material/february-24/do-0102-robb)
