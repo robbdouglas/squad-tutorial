@@ -1,11 +1,9 @@
-// import { students } from "./data/students.js";
-
-// import express from "express";
+import { students } from "./data/students.js";
 
 const express = require("express");
 const app = express();
 
-const server = app.listen(3004, () => {
+const server = app.listen(3005, () => {
   console.log("The server is listening... 🐒");
 });
 
@@ -29,7 +27,7 @@ app.get("/lotto", (req, res) => {
 
 // - Erstelle eine Route für GET-Requests auf `/randomStudent` und sende einen zufällig ausgewählten Namen aus dem Array `students` zurück. Dieses Array findest und erstellst du in der Datei `students.js`. Achte darauf, dass du die Datei mit export/import einbindest.
 
-const students = ["Robb", "Jan", "Emanuela", "Melle", "Norbert"];
+// const students = ["Robb", "Jan", "Emanuela", "Melle", "Norbert"];
 
 app.get("/randomStudent", (req, res) => {
   let randomStudent = students[Math.floor(Math.random() * students.length)];
