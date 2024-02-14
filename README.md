@@ -56,3 +56,4 @@
 
 - [Thursday, 01.02.24, Robb: Express.js GET request exercise](https://github.com/robbdouglas/squad-tutorial/tree/main/material/february-24/do-0102-robb)
 - [Tuesday, 06.02.24, Robb: Start an Express.js server exercise](https://github.com/robbdouglas/squad-tutorial/tree/main/material/february-24/di-0602-robb)
+- [Webnesday, 14.02.24, Robb: Full Express Server with Error Handling](https://github.com/robbdouglas/squad-tutorial/tree/main/material/february-24/mi-1402-robb)
