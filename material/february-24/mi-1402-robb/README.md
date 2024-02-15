@@ -30,6 +30,7 @@ touch .gitignore
 
 ```gitignore
 node_modules
+.env
 ```
 
 6. .env erstellen
@@ -44,11 +45,17 @@ touch .env
 PORT = 3333
 ```
 
-8. server.js erstellen
+8. dotenv installieren
+
+```bash
+npm i dotenv
+```
+
+9. server.js erstellen
 
 ```bash
 touch server.js
 ```
 
-9. sh. server.js
+10. sh. server.js
 

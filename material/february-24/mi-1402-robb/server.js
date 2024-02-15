@@ -10,8 +10,8 @@ const app = express();
 
 // ________MIDDLEWARE________
 
-app.use(express.json());
-app.use("/users", usersRouter)
+app.use(express.json()); // damit wir mit json arbeiten können
+app.use("/users", usersRouter) // damit wir die users.js Datei einbinden können (routing)
 
 // ________ROUTES________
 
