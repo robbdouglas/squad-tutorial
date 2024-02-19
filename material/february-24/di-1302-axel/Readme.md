@@ -128,7 +128,7 @@ app.use(loggingMiddleware);
 app.use(authMiddleware);
 
 // Endpunkt
-app.get('/', (req, res) => {
+app.get('/hallo', (req, res) => {
 res.send('Hallo Welt');
 });
 
@@ -155,3 +155,5 @@ res.send('Daten empfangen');
 app.listen(3000, () => {
 console.log('Server läuft auf Port 3000');
 });
+
+In diesem Beispiel wird body-parser verwendet, um den Anfragekörper im JSON-Format zu parsen. Wenn der Server eine POST-Anfrage auf dem Pfad "/data" erhält, wird der geparste Anfragekörper im req.body-Objekt verfügbar sein, und wir können darauf zugreifen, um die empfangenen Daten zu verarbeiten.
