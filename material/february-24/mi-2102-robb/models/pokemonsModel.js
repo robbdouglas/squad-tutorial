@@ -1,4 +1,4 @@
-// models.js
+// pokemonsModel.js
 
 import { model, Schema } from "mongoose";
 
