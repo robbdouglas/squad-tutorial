@@ -66,7 +66,7 @@ Notiz: Denke dabei an ein geeignetes einfaches Error Handling und eine Nachricht
 1. Vervollständige deine server.js Datei, indem du die Routes einbindest und den Server startest!
 2. Vergiss nicht, eine geeignete Middleware für das Parsen von JSON zu verwenden!
 3. Nutze Insomnia (oder Postman), um das Abrufen aller Spieler und eines einzelnen Spielers zu testen!
-4. Füge einen neuen Spieler deiner Wahl hinzu und beachte dabei dein erstelltes Schema! Überprüfe anschließend mit Hilfe von Compass, ob der Spieler erfolgreich hinzugefügt wurde!
+4. Füge einen neuen Spieler deiner Wahl mit Hilfe des selben Programms hinzu und beachte dabei dein erstelltes Schema! Überprüfe anschließend mit Hilfe von Compass, ob der Spieler erfolgreich hinzugefügt wurde!
 
 ### Teil G: Arbeiten mit Schemes und Subschemes
 
