@@ -74,3 +74,13 @@ Notiz: Denke dabei an ein geeignetes einfaches Error Handling und eine Nachricht
 2. Sorge dafür, dass die Keys "name", "age" und "birthday" immer vorhanden sein müssen!
 3. Sorge dafür, dass keiner der künftig erstellten Spieler mehrere _id's hat!
 4. Erstelle ein Subscheme für die previousTeams und sorge dafür, dass die Anzahl der vorherigen Clubs immer vorhanden sein muss und dass die Namen der vorherigen Clubs immer vorhanden sein müssen, wenn die Anzahl größer als 0 ist!
+5. Teste deine Änderungen, indem du einen weiteren neuen Spieler hinzufügst und überprüfe, ob die Änderungen greifen!
+
+
+### Bonus
+
+Füge weitere Funktionen zum Controller hinzu:
+
+1. Einen Spieler löschen
+2. Einen Spieler updaten
+3. Einen einzigen Key eines Spielers updaten
