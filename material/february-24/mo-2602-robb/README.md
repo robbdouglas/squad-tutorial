@@ -32,11 +32,11 @@ firstName: "Julian",
 lastName: "Brandt"
 },
 age: 27,
-birthday: "1996-05-02"
+birthday: "1996-05-02",
 club: "Borussia Dortmund",
 playerNumber: 19,
-position: "Midfielder"
-previousTeams: {
+position: "Midfielder",
+previousClubs: {
 numberOfPreviousClubs: 2,
 namesOfPreviousClubs: ["Bayer Leverkusen", "VfL Wolfsburg"]
 }
@@ -72,10 +72,9 @@ Notiz: Denke dabei an ein geeignetes einfaches Error Handling und eine Nachricht
 
 1. Sorge dafür, dass alle künftig neu erstellten Spieler per Default den Club "Borussia Dortmund" haben!
 2. Sorge dafür, dass die Keys "name", "age" und "birthday" immer vorhanden sein müssen!
-3. Sorge dafür, dass keiner der künftig erstellten Spieler mehrere _id's hat!
+3. Sorge dafür, dass keiner der künftig erstellten Spieler mehrere \_id's hat!
 4. Erstelle ein Subscheme für die previousTeams und sorge dafür, dass die Anzahl der vorherigen Clubs immer vorhanden sein muss und dass die Namen der vorherigen Clubs immer vorhanden sein müssen, wenn die Anzahl größer als 0 ist!
 5. Teste deine Änderungen, indem du einen weiteren neuen Spieler hinzufügst und überprüfe, ob die Änderungen greifen!
-
 
 ### Bonus
 
